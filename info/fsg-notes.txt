@@ -1,0 +1,6 @@
+Notes on tasks.
+  - Data setup.
+  - Initial processing.
+  - Clustering.
+  - Display.
+  - Assessment.
